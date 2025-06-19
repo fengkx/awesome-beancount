@@ -139,7 +139,9 @@ How to export (the "inferred" _extended form_ of) `*.beancount` to other formats
 ## Editor Support
 
 - [Atom](https://atom.io/packages/beancount)
-- [Beancount Language Server](https://github.com/polarmutex/beancount-language-server)
+- Language Server Protocol Implementations
+    - [Beancount Language Server](https://github.com/polarmutex/beancount-language-server)
+    - [beancount-lsp](https://github.com/fengkx/beancount-lsp): Language Server implementation as well as its client (VSCode extension)
 - [Emacs](https://github.com/beancount/beancount-mode)
 - [Sublime Text](https://github.com/norseghost/sublime-beancount)
 - [Tree-Sitter](https://github.com/polarmutex/tree-sitter-beancount)
